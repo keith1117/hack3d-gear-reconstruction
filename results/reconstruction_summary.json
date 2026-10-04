@@ -1,0 +1,100 @@
+{
+  "input_files": 772,
+  "first_slice": 103,
+  "last_slice": 2242,
+  "missing_slices_between_endpoints": 1368,
+  "missing_ranges": [
+    [
+      120,
+      255
+    ],
+    [
+      276,
+      317
+    ],
+    [
+      368,
+      648
+    ],
+    [
+      670,
+      670
+    ],
+    [
+      704,
+      704
+    ],
+    [
+      754,
+      754
+    ],
+    [
+      800,
+      800
+    ],
+    [
+      816,
+      1002
+    ],
+    [
+      1012,
+      1037
+    ],
+    [
+      1172,
+      1216
+    ],
+    [
+      1338,
+      1478
+    ],
+    [
+      1528,
+      1588
+    ],
+    [
+      1595,
+      1645
+    ],
+    [
+      1697,
+      1832
+    ],
+    [
+      1881,
+      2138
+    ]
+  ],
+  "jpeg_files_with_trailing_data": 0,
+  "files_with_exif": 4,
+  "pixel_and_slice_spacing_mm": 0.0055,
+  "output_voxel_mm": 0.055,
+  "rotation_rule": "Rotate each image clockwise by its zero-based sorted file index in degrees.",
+  "threshold": 110,
+  "estimated_teeth": 24,
+  "mesh_offset_before_centering_mm": [
+    11.084449172019958,
+    -10.67,
+    0.0019365724548697472
+  ],
+  "estimated_tip_diameter_mm": 19.93350923482855,
+  "estimated_root_diameter_mm": 16.459366754617445,
+  "estimated_bore_diameter_mm": 4.858219436034632,
+  "mesh_extents_mm": [
+    19.906101655960086,
+    19.965,
+    11.85910430584103
+  ],
+  "mesh_volume_mm3": 2055.9629563671433,
+  "vertices": 603782,
+  "triangles": 1207580,
+  "watertight": true,
+  "winding_consistent": true,
+  "connected_components": 1,
+  "seconds": 46.0,
+  "limitations": [
+    "Missing ranges are interpolated, so their geometry is an estimate.",
+    "The lower face is capped at the earliest supplied slice.",
+    "Small scan details are smoothed; this is not a precision manufacturing model."
+  ]
+}

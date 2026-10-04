@@ -1,0 +1,18 @@
+{
+  "riddle_word": "Ybsbidbxo",
+  "caesar_shift_to_decode": 3,
+  "archive_password": "Bevelgear",
+  "source_image": "Ball_rec2161.jpg",
+  "archive": "clues/Original STL.7z",
+  "final_file": "cad/final_gear.stl",
+  "extents_mm": [
+    19.937527129,
+    19.98412,
+    12.0
+  ],
+  "triangles": 12654,
+  "watertight": true,
+  "winding_consistent": true,
+  "closed_shells": 8,
+  "volume_mm3": 2126.6729585110547
+}

@@ -1,0 +1,9 @@
+numpy
+Pillow
+scipy
+scikit-image
+trimesh
+matplotlib
+reportlab
+pypdf
+py7zr

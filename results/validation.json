@@ -1,0 +1,28 @@
+{
+  "all_772_source_hashes_match": true,
+  "final_stl_matches_extracted_original": true,
+  "models": {
+    "final_gear.stl": {
+      "sha256": "f3adebb28bc5305ef70a8ae9245b7a3c9ea21b747cfb2b059e93886f41578b58",
+      "watertight": true,
+      "winding_consistent": true,
+      "extents_mm": [
+        19.937527129,
+        19.98412,
+        12.0
+      ]
+    },
+    "reconstructed_gear.stl": {
+      "sha256": "49f84893a73580fb05c096e1acb1594ad649a4b10a1853263fe5ed2950cd88da",
+      "watertight": true,
+      "winding_consistent": true,
+      "extents_mm": [
+        19.90610122680664,
+        19.96500015258789,
+        11.85910415649414
+      ]
+    }
+  },
+  "report_pages": 2,
+  "weekly_entry_pages": 1
+}
